@@ -7,11 +7,11 @@ The test function in the app compares your choice of personality characteristics
 ---
 used libraries:
 
--import twint
--import os
--from os.path import join
--from ibm_watson import PersonalityInsightsV3
--from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
--import pandas as pd
--from matplotlib import pyplot as plt
--import seaborn as sns
+- import twint
+- import os
+- from os.path import join
+- from ibm_watson import PersonalityInsightsV3
+- from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+- import pandas as pd
+- from matplotlib import pyplot as plt
+- import seaborn as sns
